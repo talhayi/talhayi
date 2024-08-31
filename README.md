@@ -1,9 +1,9 @@
-![MasterHead](https://camo.githubusercontent.com/17fb87f6f0e462e05c280403eeda1f2e232ab38325255330b0dae2ceea5fa390/68747470733a2f2f746d732d6f7574736f757263652e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f616e64726f69642d6964652e6a7067)
+![MasterHead](https://camo.githubusercontent.com/7332f46afaaf3c4251bbcbc991c116463e71a49d9a3c7ddace7db344d24cd5cb/68747470733a2f2f746d732d6f7574736f757263652e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f616e64726f69642d6964652e6a7067)
 ![](https://komarev.com/ghpvc/?username=talhayi&color=blue)
 <h1 align="center">Hi 👋, I'm Talha YILDIRIM</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
-<img src="https://camo.githubusercontent.com/b6d626b98111f101fed3ce6f26c9a7e528aa9332904802f0021f56e018ae6df1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966" alt="Coding" width=350 height=350 align="right">
+<img src="https://camo.githubusercontent.com/cf9509b9e7ea792735d67c6b5ff01f9d74a4c9a8296361452d0d8b6a92e68ab4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966" alt="Coding" width=350 height=350 align="right">
 
 - 🔭 I’m currently working on **Hugin Retail Solutions**
 
