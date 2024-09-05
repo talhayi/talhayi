@@ -5,7 +5,7 @@
 
 <img src="https://camo.githubusercontent.com/cf9509b9e7ea792735d67c6b5ff01f9d74a4c9a8296361452d0d8b6a92e68ab4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966" alt="Coding" width=350 height=350 align="right">
 
-- 🔭 I’m currently working on **Hugin Retail Solutions**
+- 🔭 I’m currently working on **Vakıf Katılım**
 
 - 📫 How to reach me **talhayildirim0506@gmail.com**
 
